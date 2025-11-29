@@ -1,0 +1,66 @@
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\Mapper.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\Utils.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\Utils.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\bin\Debug\net8.0\Mapper.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\Mapper.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\Utils.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\Entity.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\Utils.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\bin\Debug\net8.0\Mapper.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\Mapper.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\Utils.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\Utils.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\bin\Debug\net8.0\Mapper.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\BLL\obj\Debug\net8.0\ref\BLL.dll

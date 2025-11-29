@@ -1,0 +1,36 @@
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Entity\obj\Debug\net8.0\ref\Entity.dll

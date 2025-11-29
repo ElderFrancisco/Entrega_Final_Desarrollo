@@ -1,0 +1,48 @@
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.Up2Date
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\bin\Debug\net8.0\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\bin\Debug\net8.0\Entity.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.Up2Date
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.AssemblyReference.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.csproj.Up2Date
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Utils\obj\Debug\net8.0\ref\Utils.dll

@@ -1,0 +1,228 @@
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.exe
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.dll.config
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.deps.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.runtimeconfig.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Utils.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Utils.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.Form1.resources
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.Form2.resources
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcAdmin.resources
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcMisEntradas.resources
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcRecitales.resources
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.AssemblyInfo.cs
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.sourcelink.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-En.A64B89FB.Up2Date
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\refint\Venta-Entradas.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.genruntimeconfig.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\ref\Venta-Entradas.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.exe
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.dll.config
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.deps.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.runtimeconfig.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Utils.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Utils.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.Form1.resources
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.Form2.resources
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcAdmin.resources
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcMisEntradas.resources
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcRecitales.resources
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.GenerateResource.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.AssemblyInfoInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.AssemblyInfo.cs
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.sourcelink.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-En.A64B89FB.Up2Date
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\refint\Venta-Entradas.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.genruntimeconfig.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\ref\Venta-Entradas.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.exe
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.dll.config
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.deps.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.runtimeconfig.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Venta-Entradas.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Utils.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Utils.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.AssemblyReference.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.Form1.resources
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.Form2.resources
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcAdmin.resources
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcMisEntradas.resources
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta_Entradas.UcRecitales.resources
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.GenerateResource.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.AssemblyInfoInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.AssemblyInfo.cs
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.sourcelink.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-En.A64B89FB.Up2Date
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\refint\Venta-Entradas.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\Venta-Entradas.genruntimeconfig.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Venta-Entradas\obj\Debug\net8.0-windows\ref\Venta-Entradas.dll

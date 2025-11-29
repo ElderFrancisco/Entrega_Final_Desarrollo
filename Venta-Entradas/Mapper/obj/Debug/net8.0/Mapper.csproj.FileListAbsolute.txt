@@ -1,0 +1,48 @@
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.deps.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfo.cs
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.sourcelink.json
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.Up2Date
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\refint\Mapper.dll
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.pdb
+C:\Users\Fran\Documents\tp-entrega\Venta-Entradas\Mapper\obj\Debug\net8.0\ref\Mapper.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.deps.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\bin\Debug\net8.0\Entity.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\bin\Debug\net8.0\Entity.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfo.cs
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.sourcelink.json
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.Up2Date
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\refint\Mapper.dll
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.pdb
+C:\Users\pablo\Downloads\entrega tp dyds\Venta-Entradas\Mapper\obj\Debug\net8.0\ref\Mapper.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.deps.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\bin\Debug\net8.0\Mapper.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\bin\Debug\net8.0\Entity.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\bin\Debug\net8.0\Entity.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.AssemblyReference.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfo.cs
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.sourcelink.json
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.csproj.Up2Date
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\refint\Mapper.dll
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\Mapper.pdb
+C:\Users\Fran\Downloads\entrega tp\entrega tp\Venta-Entradas\Mapper\obj\Debug\net8.0\ref\Mapper.dll
